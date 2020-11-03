@@ -1,2 +1,10 @@
-# Rai_fateh_python
-intro to python
+# Python Intro - First Steps
+
+## Usage
+
+## Description
+
+## Author
+
+## License
+MIT
